@@ -8,7 +8,7 @@ MatterControl.
 "http://wiki.mattercontrol.com/images/8/87/3D_Printer_Setup_Wizard1.png")The first screen of the wizard allows the
 user to select an existing pre-configured profile.
 
-### Make
+### Make  
 
 The list of 3D printer manufacturers for which profiles are available.
 
