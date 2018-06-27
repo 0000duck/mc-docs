@@ -1,12 +1,6 @@
-\[\[<File:LAYER> VIEW-ss.png|right|thumb|550px|
+![LAYER VIEW-ss.png](http://wiki.mattercontrol.com/images/8/80/LAYER_VIEW-ss.png "LAYER VIEW-ss.png")
 
-<center>
-
-**LAYER VIEW** in 3D mode. Colors indicate speeds.
-
-</center>
-
-\]\] **LAYER VIEW** is a pane which allows the user to preview a print's
+**LAYER VIEW** in 3D mode. Colors indicate speeds. **LAYER VIEW** is a pane which allows the user to preview a print's
 G-Code tool path as a visual representation. It has two modes: 2D and
 3D. *Note*: 3D mode is not available on the [MatterControl
 Touch](mattercontrol-touch.md).

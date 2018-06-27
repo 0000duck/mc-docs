@@ -31,22 +31,10 @@ features not available in the desktop version of MatterControl.
 
 ## Screenshots
 
-\[\[<File:Screenshot> 2016-03-24-12-10-48.png|none|thumb|600px|
+![Screenshot 2016-03-24-12-10-48.png](http://wiki.mattercontrol.com/images/2/26/Screenshot_2016-03-24-12-10-48.png "Screenshot 2016-03-24-12-10-48.png")
 
-<center>
-
-MatterControl Touch on a T7.
-
-</center>
-
-\]\] \[\[<File:Screenshot> 2016-03-24-12-22-04.png|none|thumb|768px|
-
-<center>
+MatterControl Touch on a T7. ![Screenshot 2016-03-24-12-22-04.png](http://wiki.mattercontrol.com/images/b/b6/Screenshot_2016-03-24-12-22-04.png "Screenshot 2016-03-24-12-22-04.png")
 
 MatterControl Touch on a T10.
-
-</center>
-
-\]\]
 
 [Category:MatterControl Touch](category:mattercontrol-touch)

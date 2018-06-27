@@ -74,15 +74,9 @@ as set in Slice Settings.
 
 ## Temperature Shortcut Presets
 
-\[\[<File:Temperature> Presets-Edit.png|framed|right|
+![Temperature Presets-Edit.png](http://wiki.mattercontrol.com/images/4/48/Temperature_Presets-Edit.png "Temperature Presets-Edit.png")
 
-<center>
-
-Click the pencil icon to open the presets window.
-
-</center>
-
-\]\]Temperature Shortcut Presets are available for both the Extruder
+Click the pencil icon to open the presets window.Temperature Shortcut Presets are available for both the Extruder
 Temperature(s) and the Bed Temperature. Click the pencil icon
 (![Pencil-edit.png](http://wiki.mattercontrol.com/images/b/b0/Pencil-edit.png "Pencil-edit.png")) to the right of
 the name to open the respective window.
