@@ -1,6 +1,6 @@
 MatterControl keeps all internal settings in an SQLite database in the
 [application data
-folder](frequently-asked-questions#How_do_I_clear_the_application_data.3F).
+folder](frequently-asked-questions.md#How_do_I_clear_the_application_data.3F).
 On Windows this is at . On Linux and Mac it is at .
 
 You can edit the database file using a program like [SQLite
@@ -55,13 +55,13 @@ now stored as individual .printer files (JSON) in Profiles folder.
 
 **Unused in version 1.6 or later**. This contained the values of all
 [slice settings](settings) for all printers and
-[presets](settings#Preset_Menus). All settings have now been
+[presets](settings.md#Preset_Menus). All settings have now been
 moved to .printer files.
 
 ### SliceSettingsCollection
 
 **Unused in version 1.6 or later**. This was a list of
-[presets](settings#Preset_Menus) and baseline profiles, and
+[presets](settings.md#Preset_Menus) and baseline profiles, and
 mappings to their associated SliceSettings.
 
 ### SystemSetting

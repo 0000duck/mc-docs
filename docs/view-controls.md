@@ -68,7 +68,7 @@ appear above.
 
 ### Movement Distance
 
-The [Snap Grid setting](3d-view/edit#Snap_Grid) governs the
+The [Snap Grid setting](3d-view/edit.md#Snap_Grid) governs the
 increment of movement distance.
 
 ![Edit-Select\_Part-example.gif](http://wiki.mattercontrol.com/images/f/fb/Edit-Select_Part-example.gif

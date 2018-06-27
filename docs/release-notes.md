@@ -276,7 +276,7 @@ official [MatterHackers releases](downloads.md).
   - A new, vastly improved, [support
     system](settings/general/support-material)
   - [Position tuning while printing (aka baby
-    stepping)](controls/movement#Axis_Motion_Buttons)
+    stepping)](controls/movement.md#Axis_Motion_Buttons)
   - Ability to slice merged/intersecting parts
   - Improved seam-hiding while printing
   - Ability to cancel printing while heating
@@ -290,7 +290,7 @@ official [MatterHackers releases](downloads.md).
   - Improved the local search feature
   - Added visual indicator for http failures
   - Made it possible to render [translucent extrusion
-    paths](layer-view#Transparent)
+    paths](layer-view.md#Transparent)
   - Support drag and drop onto the settings widget will still add to
     [Queue](queue.md)
   - Fixed the [macro window](controls/macros) to grow in Y
@@ -313,7 +313,7 @@ official [MatterHackers releases](downloads.md).
     it get messed up if you are slow
   - Make sure we turn off all heaters when we shut down
   - Ability to save to the Queue on [Save
-    As](3d-view/edit#Save_As)
+    As](3d-view/edit.md#Save_As)
   - Suppress error reporting and abort on COM Access Denied errors
   - AMF save progress reporting
   - Fixed first layer speed issue

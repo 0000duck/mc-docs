@@ -32,7 +32,7 @@ Toggles the display of start and end times in the log.
 ## Clear Print History
 
 To clear the log, navigate to the
-[Options](options#Clear_Print_History) menu and use the
+[Options](options.md#Clear_Print_History) menu and use the
 ![CPH2.png](http://wiki.mattercontrol.com/images/5/57/CPH2.png "CPH2.png") button in the **Clear Print History**
 section.
 

@@ -12,9 +12,9 @@ divided by three categories:
 
 We'll be breaking them down by sub-category, in order, assuming that
 [Advanced
-mode](getting-started#Show_All_Settings_.2F_User_Level_.28Basic.2C_Intermediate.2C_Advanced.29)
+mode](getting-started.md#Show_All_Settings_.2F_User_Level_.28Basic.2C_Intermediate.2C_Advanced.29)
 is enabled. If a setting isn't visible, make sure [Advanced
-mode](getting-started#Show_All_Settings_.2F_User_Level_.28Basic.2C_Intermediate.2C_Advanced.29)
+mode](getting-started.md#Show_All_Settings_.2F_User_Level_.28Basic.2C_Intermediate.2C_Advanced.29)
 is enabled.
 
 # General

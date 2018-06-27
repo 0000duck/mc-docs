@@ -5,7 +5,7 @@
 The **Library** pane, when a MatterHackers account is [signed
 in](sign-in.md), has [purchased models](#Purchased),
 and [models shared from another
-user](file-menu#Enter_Share_Code).
+user](file-menu.md#Enter_Share_Code).
 
 </center>
 
@@ -42,7 +42,7 @@ devices the user is currently logged into and can also be viewed from
 the [MatterControl Sync](https://sync.mattercontrol.com/) website.
 
 For more information on the Cloud Library check out [the MatterControl
-wiki page for CLOUD SYNC](cloud#File_Sharing) and [In Depth:
+wiki page for CLOUD SYNC](cloud.md#File_Sharing) and [In Depth:
 MatterControl Cloud Library for
 Designs](http://www.matterhackers.com/articles/in-depth-mattercontrol-cloud-library).
 
@@ -203,7 +203,7 @@ Exits **Edit** mode.
 ## Adding custom folders from your hard drive
 
 The library can be set up to track any folder on your hard drive the
-same way it does with the [Downloads](library#Downloads)
+same way it does with the [Downloads](library.md#Downloads)
 folder. To do this, create a file called  in the MatterControl
 [application data directory](data-directory.md). Add the full
 path to the folders you want to track on separate lines. Here is an

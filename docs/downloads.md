@@ -26,7 +26,7 @@
 ## Alpha and Beta Testing
 
 If you are interested in testing new release candidates, see our
-[FAQ](frequently-asked-questions#Where_can_I_get_alpha_or_beta_builds_of_MatterControl.3F).
+[FAQ](frequently-asked-questions.md#Where_can_I_get_alpha_or_beta_builds_of_MatterControl.3F).
 
 ## Previous Versions
 

@@ -27,11 +27,11 @@ view and/or models currently displayed.
 
 In LAYER VIEW, the following tools are available:
 
-  - [Reset View](view-controls#Reset_View)
-  - [Rotate](view-controls#Rotate) (only in [3D
+  - [Reset View](view-controls.md#Reset_View)
+  - [Rotate](view-controls.md#Rotate) (only in [3D
     mode](#3D))
-  - [Move](view-controls#Move)
-  - [Zoom](view-controls#Zoom)
+  - [Move](view-controls.md#Move)
+  - [Zoom](view-controls.md#Zoom)
 
 ## Mode Controls
 
@@ -141,7 +141,7 @@ The estimated mass of the finished print, in grams. This is calculated
 as the [filament
 density](settings/filament/material/properties/density) in
 grams per cubic centimeter times [length of
-filament](layer-view#Filament_Length), in centimeters,
+filament](layer-view.md#Filament_Length), in centimeters,
 extruded.
 
 #### Estimated Cost

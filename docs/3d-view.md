@@ -27,11 +27,11 @@ view and/or models currently displayed.
 
 In 3D VIEW, the following tools are avaiable:
 
-  - [Reset View](view-controls#Reset_View)
-  - [Rotate](view-controls#Rotate)
-  - [Move](view-controls#Move)
-  - [Zoom](view-controls#Zoom)
-  - [Select Part](view-controls#Select_Part) (only in [Edit
+  - [Reset View](view-controls.md#Reset_View)
+  - [Rotate](view-controls.md#Rotate)
+  - [Move](view-controls.md#Move)
+  - [Zoom](view-controls.md#Zoom)
+  - [Select Part](view-controls.md#Select_Part) (only in [Edit
     mode](3d-view/edit))
 
 ## Insert

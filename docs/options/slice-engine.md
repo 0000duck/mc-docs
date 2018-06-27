@@ -25,7 +25,7 @@ slicing engines: [MatterSlice](matterslice.md),
   - Third-party slicers are not available in MatterControl for Linux by
     default, but can be added by following the instructions here:
     [Running on Linux: Using Other Slice
-    Engines](development/running-on-linux#Using_Other_Slice_Engines)
+    Engines](development/running-on-linux.md#Using_Other_Slice_Engines)
 
 # [MatterSlice](matterslice.md)
 

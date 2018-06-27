@@ -25,9 +25,9 @@ features not available in the desktop version of MatterControl.
 ### Additional Features
 
   - [Camera
-    Monitoring](mattercontrol-touch/camera#Monitoring)
+    Monitoring](mattercontrol-touch/camera.md#Monitoring)
   - Option to include a [picture of finished print with
-    notification](mattercontrol-touch/camera#Notification)
+    notification](mattercontrol-touch/camera.md#Notification)
 
 ## Screenshots
 

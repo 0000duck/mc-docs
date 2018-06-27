@@ -24,7 +24,7 @@ MatterControl CLOUD SYNC offers a few different ways to send files.
 
 ### Cloud Library
 
-[Cloud Library](library#Cloud_Library) is a feature of
+[Cloud Library](library.md#Cloud_Library) is a feature of
 MatterControl that allows for a user with a [MatterHackers.com
 account](matterhackers.com-account.md) to store 3D models and
 G-Code files in the Cloud and access them from any instance of
@@ -33,7 +33,7 @@ the same account.
 
 ### Send
 
-[The Send button in the QUEUE pane](queue#Send) allows the
+[The Send button in the QUEUE pane](queue.md#Send) allows the
 user to select a destination QUEUE in an instance of MatterControl to
 which to transfer a 3D model or G-Code file to. Both instances (origin
 and destination) must be signed in to a [MatterHackers.com

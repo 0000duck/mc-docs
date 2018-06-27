@@ -20,11 +20,11 @@ view and/or models currently displayed.
 
 In Edit mode, the following tools are available:
 
-  - [Reset View](view-controls#Reset_View)
-  - [Rotate](view-controls#Rotate)
-  - [Move](view-controls#Move)
-  - [Zoom](view-controls#Zoom)
-  - [Select Part](view-controls#Select_Part)
+  - [Reset View](view-controls.md#Reset_View)
+  - [Rotate](view-controls.md#Rotate)
+  - [Move](view-controls.md#Move)
+  - [Zoom](view-controls.md#Zoom)
+  - [Select Part](view-controls.md#Select_Part)
 
   
 
@@ -227,7 +227,7 @@ Cycling between Shaded, Outlines, and Polygons.
 ## Snap Grid
 
 Specify the increment of distance a model will move when moved using the
-[Select Part](view-controls#Select_Part) tool.
+[Select Part](view-controls.md#Select_Part) tool.
 
 ![Snap\_Grid-ss.png](http://wiki.mattercontrol.com/images/d/dc/Snap_Grid-ss.png "Snap_Grid-ss.png")
 
