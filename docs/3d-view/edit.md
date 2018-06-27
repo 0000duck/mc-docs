@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_\[\[[File:Edit-ss.png|right|framed](File:Edit-ss.png%7Cright%7Cframed)|
+\[\[[File:Edit-ss.png|right|framed](File:Edit-ss.png%7Cright%7Cframed)|
 
 <center>
 

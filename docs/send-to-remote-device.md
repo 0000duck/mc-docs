@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_\[\[<File:Send> to Remote Device.png|right|framed|
+\[\[<File:Send> to Remote Device.png|right|framed|
 
 <center>
 

@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_The **View Controls** bar allows the user to manipulate the
+The **View Controls** bar allows the user to manipulate the
 current view in [3D VIEW](3d-view.md) or [LAYER
 VIEW](layer-view.md). Depending which view the user is in,
 different tools are available.

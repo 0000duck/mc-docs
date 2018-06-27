@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_The 3D Printer Setup Wizard guides the user through the
+The 3D Printer Setup Wizard guides the user through the
 process of configuring a printer profile for use with a 3D printer in
 MatterControl.
 

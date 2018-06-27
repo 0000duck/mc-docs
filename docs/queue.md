@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_\[\[[File:Queue-ss.png|right|framed](File:Queue-ss.png%7Cright%7Cframed)|
+\[\[[File:Queue-ss.png|right|framed](File:Queue-ss.png%7Cright%7Cframed)|
 
 <center>
 

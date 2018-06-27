@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_\[\[<File:LAYER> VIEW-ss.png|right|thumb|550px|
+\[\[<File:LAYER> VIEW-ss.png|right|thumb|550px|
 
 <center>
 

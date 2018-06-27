@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_MatterControl Cloud Sync, aka CLOUD SYNC, is the name for
+MatterControl Cloud Sync, aka CLOUD SYNC, is the name for
 the suite of web services which allow web-based control of MatterControl
 functionality including:
 

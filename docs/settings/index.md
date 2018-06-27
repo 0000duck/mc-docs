@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_  
+  
 ![Slice\_Settings-ss.png](http://wiki.mattercontrol.com/images/5/57/Slice_Settings-ss.png
 "Slice_Settings-ss.png")Welcome to the Slice Settings main page\! Below
 you will find links to the categories, sub-categories, and sections of

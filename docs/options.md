@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_  
+  
 \[\[[File:Options-ss.png|framed|right](File:Options-ss.png%7Cframed%7Cright)|
 
 <center>

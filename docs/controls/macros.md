@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_Macros are snippets of saved code which can be called with
+Macros are snippets of saved code which can be called with
 the click of a button instead of having to be typed repeatedly.
 
 The Macros of the Controls pane section is where the user creates and

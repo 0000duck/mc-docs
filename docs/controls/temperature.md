@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_\[\[[File:Temperature-ss.png|right|framed](File:Temperature-ss.png%7Cright%7Cframed)|
+\[\[[File:Temperature-ss.png|right|framed](File:Temperature-ss.png%7Cright%7Cframed)|
 
 <center>
 

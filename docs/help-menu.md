@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_
+
 
 \[\[<File:HELP> menu.png|right|framed|
 

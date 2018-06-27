@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_\[\[<File:Tuning> Adjustment-ss.png|right|framed|
+\[\[<File:Tuning> Adjustment-ss.png|right|framed|
 
 <center>
 

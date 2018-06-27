@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_\[\[<File:G-Code> Terminal.png|right|framed|
+\[\[<File:G-Code> Terminal.png|right|framed|
 
 <center>
 

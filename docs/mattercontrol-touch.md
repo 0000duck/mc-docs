@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_MatterControl Touch is a version of MatterControl software
+MatterControl Touch is a version of MatterControl software
 available only on the [T7](mattercontrol-t7.md) and
 [T10](mattercontrol-t10.md) tablets sold by
 [MatterHackers](http://www.matterhackers.com). The program functions

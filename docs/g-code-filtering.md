@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_MatterControl filters G-Code as it sends it to the printer
+MatterControl filters G-Code as it sends it to the printer
 via serial USB communication to maintain compatibility with a large
 range of printer types.
 

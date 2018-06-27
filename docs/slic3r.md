@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_**Slic3r** is a third-party slicing engine which has been
+**Slic3r** is a third-party slicing engine which has been
 integrated into MatterControl.
 
 ## Origin

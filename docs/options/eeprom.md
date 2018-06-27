@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_\[\[[File:EEProm1.png|right|framed](File:EEProm1.png%7Cright%7Cframed)|
+\[\[[File:EEProm1.png|right|framed](File:EEProm1.png%7Cright%7Cframed)|
 
 <center>
 

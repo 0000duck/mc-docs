@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_**CuraEngine** is a third-party slicing engine which has
+**CuraEngine** is a third-party slicing engine which has
 been integrated into MatterControl.
 
 ## Origin

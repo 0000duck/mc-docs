@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_ The slice settings for CuraEngine in MatterControl are
+ The slice settings for CuraEngine in MatterControl are
 divided by three categories:
 
   - **General**: This is where the settings concerning the actual

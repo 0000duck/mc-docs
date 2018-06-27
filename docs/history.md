@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_\[\[[File:History.png|right|framed](File:History.png%7Cright%7Cframed)|
+\[\[[File:History.png|right|framed](File:History.png%7Cright%7Cframed)|
 
 <center>
 

@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_\[\[[File:Notifications1.png|right|framed](File:Notifications1.png%7Cright%7Cframed)|
+\[\[[File:Notifications1.png|right|framed](File:Notifications1.png%7Cright%7Cframed)|
 
 <center>
 
