@@ -9,16 +9,16 @@
 \]\] **LAYER VIEW** is a pane which allows the user to preview a print's
 G-Code tool path as a visual representation. It has two modes: 2D and
 3D. *Note*: 3D mode is not available on the [MatterControl
-Touch](mattercontrol-touch).
+Touch](mattercontrol-touch.md).
 
 It is accessed by clicking the ![LAYER\_VIEW.png](http://wiki.mattercontrol.com/images/b/b2/LAYER_VIEW.png
 "LAYER_VIEW.png") icon in the pane on the right side of the [Main
-Screen](main-screen).
+Screen](main-screen.md).
 
-The pane can be [popped out](pop-out) into its own window.
+The pane can be [popped out](pop-out.md) into its own window.
 ![Pop\_out.png](http://wiki.mattercontrol.com/images/7/74/Pop_out.png "Pop_out.png")
 
-## [View Controls](view-controls)
+## [View Controls](view-controls.md)
 
 ![3D\_View-Controls.png](http://wiki.mattercontrol.com/images/7/7c/3D_View-Controls.png "3D_View-Controls.png")
 

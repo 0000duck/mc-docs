@@ -22,7 +22,7 @@ options.
 ### [Software Print Leveling](options/software-print-leveling)
 
 The wizard and options for MatterControl's [Automatic Bed
-Leveling](automatic-print-leveling) feature.
+Leveling](automatic-print-leveling.md) feature.
 
 ## Hardware
 
@@ -30,7 +30,7 @@ Printer hardware options and functions.
 
 ### [EEProm](options/eeprom)
 
-If the printer's firmware supports [EEProm](eeprom), the
+If the printer's firmware supports [EEProm](eeprom.md), the
 settings can be adjusted here.
 
 ### [G-Code Terminal](options/g-code-terminal)
@@ -50,7 +50,7 @@ Alerts for when a print is completed.
 
 Access to the MatterControl Cloud Sync dashboard.
 
-See also: [MatterControl Cloud Sync](cloud)
+See also: [MatterControl Cloud Sync](cloud.md)
 
 ## Application
 
@@ -64,7 +64,7 @@ UI.
 ### [Slice Engine](options/slice-engine)
 
 Choose from three slice engines, including
-[MatterSlice](matterslice).
+[MatterSlice](matterslice.md).
 
 ### [Thumbnail Rendering](options/thumbnail-rendering)
 
@@ -76,7 +76,7 @@ Choose between normal and Touchscreen mode.
 
 ### [Clear Print History](options/clear-print-history)
 
-Delete all logged prints from the [HISTORY](history) panel.
+Delete all logged prints from the [HISTORY](history.md) panel.
 
 ### [Theme](options/theme)
 

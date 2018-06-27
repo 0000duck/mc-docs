@@ -8,7 +8,7 @@ The Software Print Leveling section as shown in the **Options** menu.
 
 \]\]The Software Print Leveling feature of MatterControl compensates for
 an uneven bed. It is a form of [Automatic Print
-Leveling](automatic-print-leveling). Measurement is taken of
+Leveling](automatic-print-leveling.md). Measurement is taken of
 the bed as it is, then G-Code is adjusted as the print happens. The
 G-Code itself is not changed, but rather a filter is applied, making
 adjustments on-the-fly. For this reason, existing .gcode files can be

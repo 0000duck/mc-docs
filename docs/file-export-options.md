@@ -21,7 +21,7 @@ Slices the model(s) currently in 3D View using the [slice
 settings](settings) currently selected and saves the output
 as a .gcode file.
 
-### [Export as X3G](export-g-code-as-x3g)
+### [Export as X3G](export-g-code-as-x3g.md)
 
 Slices the model(s) currently in 3D View using the [slice
 settings](settings) currently selected and saves the output

@@ -44,7 +44,7 @@ the bed to their absolute positions relative to the currently selected
 part.
 
 Step 1 - With the first part loaded, navigate to [3D
-View](3d-view) and switch to [Edit
+View](3d-view.md) and switch to [Edit
 mode](3d-view/edit).
 
 ![Multiextrusion3.png](http://wiki.mattercontrol.com/images/6/6c/Multiextrusion3.png "Multiextrusion3.png")  

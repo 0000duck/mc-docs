@@ -17,12 +17,12 @@ It can be found at the top left of the MatterControl screen.
 
 Opens the [Printer Configuration](printer-configuration)
 Window. If no printers are set up, the [3D Printer Setup
-Wizard](3d-printer-setup-wizard) is run.
+Wizard](3d-printer-setup-wizard.md) is run.
 
 ## Add File To Queue
 
 Opens the operating system's file manager so the user can select a .STL,
-.AMF, .ZIP, or .GCODE file to add to the [QUEUE](queue).
+.AMF, .ZIP, or .GCODE file to add to the [QUEUE](queue.md).
 
 ## Redeem Design Code
 

@@ -3,7 +3,7 @@
 <center>
 
 The **Library** pane, when a MatterHackers account is [signed
-in](sign-in), has [purchased models](#Purchased),
+in](sign-in.md), has [purchased models](#Purchased),
 and [models shared from another
 user](file-menu#Enter_Share_Code).
 
@@ -33,7 +33,7 @@ upgrade.
 The **Cloud Library** allows instant access to design files through
 MatterControl from anywhere with an Internet connection. Designs stored
 in the Cloud Library are tied to a [MatterHackers.com
-account](matterhackers.com-account). Once signed in the user
+account](matterhackers.com-account.md). Once signed in the user
 can browse and manage any design files previously added and add new
 files.
 
@@ -97,7 +97,7 @@ within each section, subsequent folders, or search results.
 
 Models can be viewed or printed directly by hovering over their bar in
 the list. The **View** button opens the model in a new [3D
-View](3d-view) window. The **Print** button slices the model
+View](3d-view.md) window. The **Print** button slices the model
 using the current [Settings](settings) and begins the print.
 
 ![Library\_View\_Print.png](http://wiki.mattercontrol.com/images/8/8f/Library_View_Print.png
@@ -153,7 +153,7 @@ Me](#Shared_with_Me) sections.
 
 #### Export
 
-Opens the [File export options](file-export-options) dialog
+Opens the [File export options](file-export-options.md) dialog
 box to export the currently selected file.
 
 Active when only one file is selected.
@@ -192,7 +192,7 @@ Active when only one file is selected.
 
 #### Add to Queue
 
-Adds the selected file(s) to the [Queue](queue).
+Adds the selected file(s) to the [Queue](queue.md).
 
 Active when one or more files are selected.
 
@@ -205,7 +205,7 @@ Exits **Edit** mode.
 The library can be set up to track any folder on your hard drive the
 same way it does with the [Downloads](library#Downloads)
 folder. To do this, create a file called  in the MatterControl
-[application data directory](data-directory). Add the full
+[application data directory](data-directory.md). Add the full
 path to the folders you want to track on separate lines. Here is an
 example:
 

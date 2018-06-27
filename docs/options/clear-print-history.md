@@ -7,11 +7,11 @@ The **Clear Print History** section of the Options menu.
 </center>
 
 \]\]**Clear Print History** clears the log information in the
-[HISTORY](history) pane.
+[HISTORY](history.md) pane.
 
 ## Use
 
-To clear the information in the [History](history) pane,
+To clear the information in the [History](history.md) pane,
 click ![CPH2.png](http://wiki.mattercontrol.com/images/5/57/CPH2.png "CPH2.png").
 
 <table>
@@ -27,4 +27,4 @@ click ![CPH2.png](http://wiki.mattercontrol.com/images/5/57/CPH2.png "CPH2.png")
 </tbody>
 </table>
 
-See also: [HISTORY](history)
+See also: [HISTORY](history.md)

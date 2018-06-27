@@ -27,7 +27,7 @@ field by default.
 This button will appear when valid selections and entries have been
 made. Clicking will create the new printer configuration, and if
 MatterControl is signed in to a [MatterHackers.com
-account](matterhackers.com-account), will associate the
+account](matterhackers.com-account.md), will associate the
 configuration with the account.
 
 ### Cancel

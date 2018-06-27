@@ -7,7 +7,7 @@
     is equipped with some kind of probe or sensor for measuring the
     height of the bed. The firmware then takes into account these
     measurements when executing moves. The probing sequence is activated
-    using the  command in your [Start GCode](start-gcode).
+    using the  command in your [Start GCode](start-gcode.md).
       - Mechanical Switch (Robo or Kossel Pro)
       - Conductive (Lulzbot Mini)
       - Inductive (Printrbot Simple)

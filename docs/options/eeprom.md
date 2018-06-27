@@ -30,7 +30,7 @@ MatterControl supports EEProm for only Marlin and Repetier firmwares.
 
 For an example of how to use the EEProm window to adjust the printer's
 [steps per mm](steps-per-mm), check out this page: [Setting
-Steps per mm](setting-steps-per-mm)
+Steps per mm](setting-steps-per-mm.md)
 
 ## Interface
 

@@ -5,23 +5,23 @@
 MatterControl is an open-source program designed to control and enhance the desktop 3D printing experience. http://www.mattercontrol.com/
 
 ## Features
-* [3D VIEW](3d-view)
+* [3D VIEW](3d-view.md)
 * [CONTROLS](controls)
-* [History](history)
-* [LAYER VIEW](layer-view)
+* [History](history.md)
+* [LAYER VIEW](layer-view.md)
 * [LIBRARY](libary)
-* [OPTIONS](options)
-* [QUEUE](queue)
+* [OPTIONS](options.md)
+* [QUEUE](queue.md)
 * [SETTINGS](settings)
-* [Cloud](cloud-sync)
+* [Cloud](cloud-sync.md)
 
 ## Slice Engines
-* [MatterSlice](matterslice)
-* [CuraEngine](curaengine)
-* [Slic3r](slic3r)
+* [MatterSlice](matterslice.md)
+* [CuraEngine](curaengine.md)
+* [Slic3r](slic3r.md)
 
 ## Design Tools
-* [Braille Builder](braille-builder)
+* [Braille Builder](braille-builder.md)
 * [Image Converter](image-conveter)
 * [Text Creator](text-creator)
 

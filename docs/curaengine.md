@@ -9,7 +9,7 @@ June 2013.\[1\]
 ## Documentation
 
 The complete list of settings can be found on the [CuraEngine
-Settings](curaengine-settings) page.
+Settings](curaengine-settings.md) page.
 
 ## Repository
 

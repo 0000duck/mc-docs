@@ -2,7 +2,7 @@
 ![Slice\_Settings-ss.png](http://wiki.mattercontrol.com/images/5/57/Slice_Settings-ss.png
 "Slice_Settings-ss.png")Welcome to the Slice Settings main page\! Below
 you will find links to the categories, sub-categories, and sections of
-settings for [MatterSlice](matterslice), as well as
+settings for [MatterSlice](matterslice.md), as well as
 information about the menus and options available.
 
 To access the Slice Settings menu from the MatterControl main screen,
@@ -10,7 +10,7 @@ click ![Settings\_Controls.png](http://wiki.mattercontrol.com/images/4/42/Settin
 "Settings_Controls.png") --\> ![Settings.png](http://wiki.mattercontrol.com/images/9/91/Settings.png
 "Settings.png")
 
-The pane can be [popped out](pop-out) into its own window.
+The pane can be [popped out](pop-out.md) into its own window.
 ![Pop\_out.png](http://wiki.mattercontrol.com/images/7/74/Pop_out.png "Pop_out.png")
 
 <table>
@@ -77,7 +77,7 @@ The pane can be [popped out](pop-out) into its own window.
 
 Starting in version 1.6, settings are automatically synced between
 instances of MatterControl which are signed in to the same
-[MatterHackers.com account](matterhackers.com-account).
+[MatterHackers.com account](matterhackers.com-account.md).
 Updating a setting in one instance will automatically change the setting
 in all other instances.
 

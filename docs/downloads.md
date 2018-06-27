@@ -30,4 +30,4 @@ If you are interested in testing new release candidates, see our
 
 ## Previous Versions
 
-See: [Release Notes](release-notes)
+See: [Release Notes](release-notes.md)

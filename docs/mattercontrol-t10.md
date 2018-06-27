@@ -1,6 +1,6 @@
 MatterControl T10 is a 10.6-inch tablet sold by
 [MatterHackers](http://www.matterhackers.com) which runs the
-[MatterControl Touch](mattercontrol-touch) version of
+[MatterControl Touch](mattercontrol-touch.md) version of
 MatterControl software on the Android operating system. It is meant to
 function as a standalone printer controller.
 

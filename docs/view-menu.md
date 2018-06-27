@@ -14,12 +14,12 @@ panes.
 ## Settings
 
 This menu item opens the [Settings](settings) pane in
-[popped-out mode](pop-out).
+[popped-out mode](pop-out.md).
 
 ## Controls
 
 This menu item opens the [Controls](controls) pane in
-[popped-out mode](pop-out).
+[popped-out mode](pop-out.md).
 
 ## Terminal
 

@@ -7,8 +7,8 @@ The **Thumbnail Rendering** menu.
 </center>
 
 \]\]The Thumbnail Rendering section controls how model thumbnails are
-displayed in the [Queue](queue) and
-[Library](library).
+displayed in the [Queue](queue.md) and
+[Library](library.md).
 
 ## Flat
 

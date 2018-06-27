@@ -10,4 +10,4 @@ Google Chrome web browser.
 \]\]The Cloud Sync section of the Options menu links to
 <http://sync.mattercontrol.com/my/dashboard>.
 
-See also: [MatterControl Cloud Sync](cloud)
+See also: [MatterControl Cloud Sync](cloud.md)

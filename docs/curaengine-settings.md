@@ -54,14 +54,14 @@ is enabled.
   -   
     **Number of Solid Layers on the Top:** This determines how many of
     the top layers will be solid. This is useful when the
-    [infill](infill) is lower.
+    [infill](infill.md) is lower.
 
 <!-- end list -->
 
   -   
     **Number of Solid Layers on the Bottom:** This determines how many
     solid layers will be printed before the printer begins to use
-    [infill](infill).
+    [infill](infill.md).
 
 ## Infill
 

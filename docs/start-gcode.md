@@ -1,1 +1,1 @@
-1.  REDIRECT [Start G-Code](start-g-code)
+1.  REDIRECT [Start G-Code](start-g-code.md)

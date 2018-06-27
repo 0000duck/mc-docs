@@ -1,6 +1,6 @@
 \_\_NOTOC\_\_The **View Controls** bar allows the user to manipulate the
-current view in [3D VIEW](3d-view) or [LAYER
-VIEW](layer-view). Depending which view the user is in,
+current view in [3D VIEW](3d-view.md) or [LAYER
+VIEW](layer-view.md). Depending which view the user is in,
 different tools are available.
 
 ![View\_Controls.png](http://wiki.mattercontrol.com/images/b/ba/View_Controls.png "View_Controls.png")

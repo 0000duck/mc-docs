@@ -13,12 +13,12 @@ multiple models in a 3D environment.
 
 It is accessed by clicking the ![3D\_View.png](http://wiki.mattercontrol.com/images/c/cb/3D_View.png
 "3D_View.png") icon in the pane on the right side of the [Main
-Screen](main-screen).
+Screen](main-screen.md).
 
-The pane can be [popped out](pop-out) into its own window.
+The pane can be [popped out](pop-out.md) into its own window.
 ![Pop\_out.png](http://wiki.mattercontrol.com/images/7/74/Pop_out.png "Pop_out.png")
 
-## [View Controls](view-controls)
+## [View Controls](view-controls.md)
 
 ![View\_Controls.png](http://wiki.mattercontrol.com/images/b/ba/View_Controls.png "View_Controls.png")
 
@@ -64,7 +64,7 @@ The **Export...** window.\]\]
 ![3D\_View-Export.png](http://wiki.mattercontrol.com/images/e/e5/3D_View-Export.png "3D_View-Export.png")
 
 The **Export...** button opens the [File export
-options](file-export-options) dialog box which allows the
+options](file-export-options.md) dialog box which allows the
 user to export the model in one of several formats.
 
 [Category:Features](category:features)

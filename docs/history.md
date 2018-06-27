@@ -52,7 +52,7 @@ The 'View' and 'Print' buttons for repeating past prints.
 </center>
 
 \]\]Clicking the View button next to a past print will open the
-generated G-Code file in a new [3D VIEW](3d-view) window.
+generated G-Code file in a new [3D VIEW](3d-view.md) window.
 
 ### Print
 

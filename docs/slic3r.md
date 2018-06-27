@@ -9,7 +9,7 @@ Slic3r was created in 2011 by members of the RepRap community.\[1\]
 
 The complete list of available Slic3r slice settings for use in
 MatterControl can be found on the [Slic3r
-Settings](slic3r-settings) page.
+Settings](slic3r-settings.md) page.
 
 ## Repository
 

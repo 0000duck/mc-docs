@@ -8,13 +8,13 @@ The  window.
 
 \]\]The  window allows the user to send models or G-Code files to
 another instance of MatterControl signed in to the same
-[MatterHackers.com account](matterhackers.com-account).
+[MatterHackers.com account](matterhackers.com-account.md).
 
 ## Select A Device
 
 This list shows all the other instances of MatterControl to which the
 signed-in [MatterHackers.com
-account](matterhackers.com-account) is also signed in. Choose
+account](matterhackers.com-account.md) is also signed in. Choose
 a destination by clicking the radio button to the left of the printer's
 name.
 
@@ -28,7 +28,7 @@ G-Code file.
 
 Check this box to show all instances of MatterControl associated with
 the currently-signed-in [MatterHackers.com
-account](matterhackers.com-account) to which the user can
+account](matterhackers.com-account.md) to which the user can
 send files. By default the list will only display instances that are
 signed in.
 

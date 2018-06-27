@@ -19,7 +19,7 @@ the MatterHacker forums in a web browser.
 
 ## Wiki
 
-Opens [the main page of this wiki](main-page) in a web
+Opens [the main page of this wiki](main-page.md) in a web
 browser.
 
 ## Guides and Articles
@@ -29,7 +29,7 @@ articles](http://www.matterhackers.com/topic/mattercontrol).
 
 ## Release Notes
 
-Opens the [Release Notes](release-notes) page of this wiki in
+Opens the [Release Notes](release-notes.md) page of this wiki in
 a web browser.
 
 ## Report a Bug

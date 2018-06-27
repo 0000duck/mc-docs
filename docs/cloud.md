@@ -12,7 +12,7 @@ functionality including:
 ### Access
 
 All cloud-based functionality is secured with the same
-[MatterHackers.com account](matterhackers.com-account) system
+[MatterHackers.com account](matterhackers.com-account.md) system
 used to place orders on MatterHackers.com.
 
 Create a MatterHackers.com account here:
@@ -26,7 +26,7 @@ MatterControl CLOUD SYNC offers a few different ways to send files.
 
 [Cloud Library](library#Cloud_Library) is a feature of
 MatterControl that allows for a user with a [MatterHackers.com
-account](matterhackers.com-account) to store 3D models and
+account](matterhackers.com-account.md) to store 3D models and
 G-Code files in the Cloud and access them from any instance of
 MatterControl that is connected to the Internet and also signed in to
 the same account.
@@ -37,7 +37,7 @@ the same account.
 user to select a destination QUEUE in an instance of MatterControl to
 which to transfer a 3D model or G-Code file to. Both instances (origin
 and destination) must be signed in to a [MatterHackers.com
-account](matterhackers.com-account).
+account](matterhackers.com-account.md).
 
 ### Sync Dashboard
 

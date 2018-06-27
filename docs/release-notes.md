@@ -6,7 +6,7 @@
 
 This page contains a brief description of each new release of
 MatterControl. The version numbers shown on this page are for the
-official [MatterHackers releases](downloads).
+official [MatterHackers releases](downloads.md).
 
 ## 1.7.5
 
@@ -292,14 +292,14 @@ official [MatterHackers releases](downloads).
   - Made it possible to render [translucent extrusion
     paths](layer-view#Transparent)
   - Support drag and drop onto the settings widget will still add to
-    [Queue](queue)
+    [Queue](queue.md)
   - Fixed the [macro window](controls/macros) to grow in Y
   - Implemented scroll wheel in the [G-Code
     Terminal](options/g-code-terminal)
-  - Added user configurable [Library](library) folders
+  - Added user configurable [Library](library.md) folders
   - Finished Braille 2 functionality for [Braille
-    Builder](braille-builder)
-  - Velocity during rotation of [3D View](3d-view)
+    Builder](braille-builder.md)
+  - Velocity during rotation of [3D View](3d-view.md)
   - Improved MatterControl Touch printing
   - Improved Android soft keyboard support
   - Only process the most outside perimeter with [Spiral
@@ -346,7 +346,7 @@ article on MatterHackers.com
 
 **Release Date:** November 16, 2015
 
-Notes: [MatterControl Touch](mattercontrol-touch) only
+Notes: [MatterControl Touch](mattercontrol-touch.md) only
 
 ### Minor Changes
 

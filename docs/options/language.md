@@ -20,4 +20,4 @@ MatterControl's **Language** selection menu.
 ## Translate MatterControl
 
 To help translate MatterControl into another language, please visit the
-[Localization](localization) page.
+[Localization](localization.md) page.

@@ -9,9 +9,9 @@ is configured.
 </center>
 
 \]\]Edit mode allows the user to make minor changes to the model
-currently loaded in [3D VIEW](3d-view).
+currently loaded in [3D VIEW](3d-view.md).
 
-## [View Controls](view-controls)
+## [View Controls](view-controls.md)
 
 ![View\_Controls.png](http://wiki.mattercontrol.com/images/b/ba/View_Controls.png "View_Controls.png")
 
@@ -170,7 +170,7 @@ This section is shown only when the [Extruder
 Count](settings/printer/features/hardware/extruder-count)
 setting is set to a value greater than 1.
 
-See also: [Multi-Extrusion](multi-extrusion)
+See also: [Multi-Extrusion](multi-extrusion.md)
 
 ![Edit-Materials.png](http://wiki.mattercontrol.com/images/3/30/Edit-Materials.png "Edit-Materials.png")  
 \== DISPLAY ==

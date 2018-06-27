@@ -73,23 +73,23 @@ Tools</b>
   
 {| |- | |                  | style="vertical-align:top;width: 300px;" |
 
-  - [3D VIEW](3d-view)
+  - [3D VIEW](3d-view.md)
   - [CONTROLS](controls)
-  - [HISTORY](history)
-  - [LAYER VIEW](layer-view)
-  - [LIBRARY](library)
-  - [OPTIONS](options)
-  - [QUEUE](queue)
+  - [HISTORY](history.md)
+  - [LAYER VIEW](layer-view.md)
+  - [LIBRARY](library.md)
+  - [OPTIONS](options.md)
+  - [QUEUE](queue.md)
   - [SETTINGS](settings)
-  - [CLOUD SYNC](cloud)
+  - [CLOUD SYNC](cloud.md)
 
 |}  
   
 {| |- | |                  | style="vertical-align:top;width: 300px;" |
 
-  - [MatterSlice](matterslice)
-  - [CuraEngine](curaengine)
-  - [Slic3r](slic3r)
+  - [MatterSlice](matterslice.md)
+  - [CuraEngine](curaengine.md)
+  - [Slic3r](slic3r.md)
 
 |}  
   

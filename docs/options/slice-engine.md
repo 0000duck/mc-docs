@@ -7,8 +7,8 @@ The **Slice Engine** selection menu.
 </center>
 
 \]\] MatterControl offers the ability to switch between one of three
-slicing engines: [MatterSlice](matterslice),
-[CuraEngine](curaengine), and [Slic3r](slic3r).
+slicing engines: [MatterSlice](matterslice.md),
+[CuraEngine](curaengine.md), and [Slic3r](slic3r.md).
 
 ## Restrictions
 
@@ -18,7 +18,7 @@ slicing engines: [MatterSlice](matterslice),
     slice engine, and is available in all versions of MatterControl.
   - MatterSlice is the only slice engine available in MatterControl that
     is capable of producing
-    [multi-extrusion](multi-extrusion) prints. Third-party
+    [multi-extrusion](multi-extrusion.md) prints. Third-party
     slicers do not appear in the Slice Engine menu when [Extruder
     Count](settings/printer/features/hardware/extruder-count)
     is set to a value greater than 1.
@@ -27,8 +27,8 @@ slicing engines: [MatterSlice](matterslice),
     [Running on Linux: Using Other Slice
     Engines](development/running-on-linux#Using_Other_Slice_Engines)
 
-# [MatterSlice](matterslice)
+# [MatterSlice](matterslice.md)
 
-# [Slic3r](slic3r)
+# [Slic3r](slic3r.md)
 
-# [CuraEngine](curaengine)
+# [CuraEngine](curaengine.md)

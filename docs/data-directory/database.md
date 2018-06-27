@@ -27,7 +27,7 @@ Macros](http://wiki.mattercontrol.com/controls/macros).
 Contains items that can be found in the [Local
 Library](http://wiki.mattercontrol.com/library) and the
 [Print History](http://wiki.mattercontrol.com/history). Does
-not contain items from the [Queue](queue), Cloud Library, or
+not contain items from the [Queue](queue.md), Cloud Library, or
 your Downloads folder.
 
 ### PrintItemCollection
@@ -38,7 +38,7 @@ Library](http://wiki.mattercontrol.com/library).
 ### PrintTask
 
 This is the log of all prints that have been performed. The last 20 of
-these are shown in the [History](history).
+these are shown in the [History](history.md).
 
 ### Printer
 

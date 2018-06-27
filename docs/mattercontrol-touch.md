@@ -1,6 +1,6 @@
 \_\_NOTOC\_\_MatterControl Touch is a version of MatterControl software
-available only on the [T7](mattercontrol-t7) and
-[T10](mattercontrol-t10) tablets sold by
+available only on the [T7](mattercontrol-t7.md) and
+[T10](mattercontrol-t10.md) tablets sold by
 [MatterHackers](http://www.matterhackers.com). The program functions
 mostly the same, but with a few minor UI differences and some additional
 features not available in the desktop version of MatterControl.
@@ -12,15 +12,15 @@ features not available in the desktop version of MatterControl.
     OPTIONS menu.
   - The [Sidebar](mattercontrol-touch/sidebar) replaces many
     of the navigation links.
-  - [FILE](file-menu), [VIEW](view-menu), and
-    [HELP](help-menu) menus have been removed; menu items are
+  - [FILE](file-menu.md), [VIEW](view-menu.md), and
+    [HELP](help-menu.md) menus have been removed; menu items are
     redistributed elsewhere.
   - The [Gear menu](gear-menu) contains some of the
     redistributed menu items and the sign-in link.
   - [Interface Mode](mattercontrol-touch/interface-mode)
     shows two extra items on the
     [Sidebar](mattercontrol-touch/sidebar).
-  - [3D Mode in LAYER VIEW](layer-view) is not available.
+  - [3D Mode in LAYER VIEW](layer-view.md) is not available.
 
 ### Additional Features
 

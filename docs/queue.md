@@ -9,7 +9,7 @@ order. It is shown when the program starts.
 
 If not the currently displayed pane, it can be accessed by clicking the
 ![Queue\_button.png](http://wiki.mattercontrol.com/images/9/9e/Queue_button.png "Queue_button.png") button on the
-[Main Screen](main-screen).
+[Main Screen](main-screen.md).
 
 ## Count
 
@@ -30,7 +30,7 @@ selected.
 
 ### Export
 
-Opens the [File export options](file-export-options) dialog
+Opens the [File export options](file-export-options.md) dialog
 box to export the currently selected file.
 
 Active when only one file is selected.
@@ -53,10 +53,10 @@ Shows a drop down menu of additional file action items.
 
 #### Send
 
-Opens the [Send to Remote Device](send-to-remote-device)
+Opens the [Send to Remote Device](send-to-remote-device.md)
 window, allowing the user to send the model to another device signed in
 under the same [MatterHackers.com
-account](matterhackers.com-account).
+account](matterhackers.com-account.md).
 
 #### Add To Library
 

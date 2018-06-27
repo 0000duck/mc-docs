@@ -5,8 +5,8 @@ Currently available for:
 
   - [Settings](settings)
   - [Controls](controls)
-  - [3D View](3d-view)
-  - [Layer View](layer-view)
+  - [3D View](3d-view.md)
+  - [Layer View](layer-view.md)
 
 ## Common Use
 
