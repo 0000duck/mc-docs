@@ -1,2 +1,2 @@
 1.  REDIRECT
-    [Development/Localization](Development/Localization "wikilink")
+    [Development/Localization](development/localization)

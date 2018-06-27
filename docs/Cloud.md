@@ -12,7 +12,7 @@ functionality including:
 ### Access
 
 All cloud-based functionality is secured with the same
-[MatterHackers.com account](MatterHackers.com_account "wikilink") system
+[MatterHackers.com account](matterhackers.com-account) system
 used to place orders on MatterHackers.com.
 
 Create a MatterHackers.com account here:
@@ -24,20 +24,20 @@ MatterControl CLOUD SYNC offers a few different ways to send files.
 
 ### Cloud Library
 
-[Cloud Library](LIBRARY#Cloud_Library "wikilink") is a feature of
+[Cloud Library](library#Cloud_Library) is a feature of
 MatterControl that allows for a user with a [MatterHackers.com
-account](MatterHackers.com_account "wikilink") to store 3D models and
+account](matterhackers.com-account) to store 3D models and
 G-Code files in the Cloud and access them from any instance of
 MatterControl that is connected to the Internet and also signed in to
 the same account.
 
 ### Send
 
-[The Send button in the QUEUE pane](QUEUE#Send "wikilink") allows the
+[The Send button in the QUEUE pane](queue#Send) allows the
 user to select a destination QUEUE in an instance of MatterControl to
 which to transfer a 3D model or G-Code file to. Both instances (origin
 and destination) must be signed in to a [MatterHackers.com
-account](MatterHackers.com_account "wikilink").
+account](matterhackers.com-account).
 
 ### Sync Dashboard
 
@@ -64,6 +64,6 @@ Sync Dashboard, users can:
 
 ## Notifications
 
-Use the [Notifications](Options/Notifications "wikilink") section under
+Use the [Notifications](options/notifications) section under
 the OPTIONS pane to set text message, email, or sound notifications that
 alert the user when a print completes.

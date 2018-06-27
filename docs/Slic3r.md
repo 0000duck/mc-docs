@@ -9,7 +9,7 @@ Slic3r was created in 2011 by members of the RepRap community.\[1\]
 
 The complete list of available Slic3r slice settings for use in
 MatterControl can be found on the [Slic3r
-Settings](Slic3r_Settings "wikilink") page.
+Settings](slic3r-settings) page.
 
 ## Repository
 
@@ -20,6 +20,6 @@ Slic3r is an open source project hosted on GitHub:
 
 <references />
 
-[Category:Slice Engines](Category:Slice_Engines "wikilink")
+[Category:Slice Engines](category:slice-engines)
 
 1.  [Slic3r - RepRapWiki](http://reprap.org/wiki/Slic3r)

@@ -32,12 +32,12 @@ Toggles the display of start and end times in the log.
 ## Clear Print History
 
 To clear the log, navigate to the
-[Options](Options#Clear_Print_History "wikilink") menu and use the
-![http://wiki.mattercontrol.com/images/5/57/CPH2.png](http://wiki.mattercontrol.com/images/5/57/CPH2.png "http://wiki.mattercontrol.com/images/5/57/CPH2.png") button in the **Clear Print History**
+[Options](options#Clear_Print_History) menu and use the
+![CPH2.png](http://wiki.mattercontrol.com/images/5/57/CPH2.png "CPH2.png") button in the **Clear Print History**
 section.
 
 See also: [Clear Print
-History](Options/Clear_Print_History "wikilink")  
+History](options/clear-print-history)  
 
 ## Menu item options
 
@@ -52,11 +52,11 @@ The 'View' and 'Print' buttons for repeating past prints.
 </center>
 
 \]\]Clicking the View button next to a past print will open the
-generated G-Code file in a new [3D VIEW](3D_VIEW "wikilink") window.
+generated G-Code file in a new [3D VIEW](3d-view) window.
 
 ### Print
 
 Clicking the Print button next to a past print will send the G-Code to
 the printer and start the print.
 
-[Category:Features](Category:Features "wikilink")
+[Category:Features](category:features)

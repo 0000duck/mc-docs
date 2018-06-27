@@ -11,73 +11,73 @@ The **OPTIONS** pane as seen in MatterControl desktop.
 settings, and MatterControl account settings can be modified.
 
 To access the OPTIONS menu from the MatterControl main screen, click
-![Settings\_Controls.png](http://wiki.mattercontrol.com/images/4/42/Settings_Controls.png "http://wiki.mattercontrol.com/images/4/42/Settings_Controls.png")
---\> ![http://wiki.mattercontrol.com/images/8/8b/Options.png](http://wiki.mattercontrol.com/images/8/8b/Options.png "http://wiki.mattercontrol.com/images/8/8b/Options.png")
+![Settings\_Controls.png](http://wiki.mattercontrol.com/images/4/42/Settings_Controls.png "Settings_Controls.png")
+--\> ![Options.png](http://wiki.mattercontrol.com/images/8/8b/Options.png "Options.png")
 
 ## Calibration
 
 Printer calibration procedure
 options.
 
-### [Software Print Leveling](OPTIONS/Software_Print_Leveling "wikilink")
+### [Software Print Leveling](options/software-print-leveling)
 
 The wizard and options for MatterControl's [Automatic Bed
-Leveling](Automatic_Print_Leveling "wikilink") feature.
+Leveling](automatic-print-leveling) feature.
 
 ## Hardware
 
 Printer hardware options and functions.
 
-### [EEProm](OPTIONS/EEProm "wikilink")
+### [EEProm](options/eeprom)
 
-If the printer's firmware supports [EEProm](EEProm "wikilink"), the
+If the printer's firmware supports [EEProm](eeprom), the
 settings can be adjusted here.
 
-### [G-Code Terminal](OPTIONS/G-Code_Terminal "wikilink")
+### [G-Code Terminal](options/g-code-terminal)
 
 A command-line terminal for communicating with the printer in
-[G-Code](G-Code "wikilink").
+[G-Code](g-code).
 
 ## Cloud
 
 Options for interacting with MatterControl's cloud-based functions.
 
-### [Notifications](OPTIONS/Notifications "wikilink")
+### [Notifications](options/notifications)
 
 Alerts for when a print is completed.
 
-### [Cloud Sync](OPTIONS/Cloud_Sync "wikilink")
+### [Cloud Sync](options/cloud-sync)
 
 Access to the MatterControl Cloud Sync dashboard.
 
-See also: [MatterControl Cloud Sync](Cloud "wikilink")
+See also: [MatterControl Cloud Sync](cloud)
 
 ## Application
 
 MatterControl program options.
 
-### [Language](OPTIONS/Language "wikilink")
+### [Language](options/language)
 
 Select a language into which to translate the text in MatterControl's
 UI.
 
-### [Slice Engine](OPTIONS/Slice_Engine "wikilink")
+### [Slice Engine](options/slice-engine)
 
 Choose from three slice engines, including
-[MatterSlice](MatterSlice "wikilink").
+[MatterSlice](matterslice).
 
-### [Thumbnail Rendering](OPTIONS/Thumbnail_Rendering "wikilink")
+### [Thumbnail Rendering](options/thumbnail-rendering)
 
 Options for how to display thumbnails.
 
-### [Display Mode](OPTIONS/Display_Mode "wikilink")
+### [Display Mode](options/display-mode)
 
 Choose between normal and Touchscreen mode.
 
-### [Clear Print History](OPTIONS/Clear_Print_History "wikilink")
+### [Clear Print History](options/clear-print-history)
 
-Delete all logged prints from the [HISTORY](History "wikilink") panel.
+Delete all logged prints from the [HISTORY](history) panel.
 
-### [Theme](OPTIONS/Theme "wikilink")
+### [Theme](options/theme)
 
 Customize the look of MatterControl with colored themes.

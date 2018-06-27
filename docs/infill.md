@@ -1,2 +1,2 @@
 1.  REDIRECT [Slice
-    Settings/General/Infill](Slice_Settings/General/Infill "wikilink")
+    Settings/General/Infill](slice-settings/general/infill)

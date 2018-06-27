@@ -9,7 +9,7 @@ June 2013.\[1\]
 ## Documentation
 
 The complete list of settings can be found on the [CuraEngine
-Settings](CuraEngine_Settings "wikilink") page.
+Settings](curaengine-settings) page.
 
 ## Repository
 
@@ -20,6 +20,6 @@ CuraEngine is an open source project hosted on GitHub:
 
 <references />
 
-[Category:Slice Engines](Category:Slice_Engines "wikilink")
+[Category:Slice Engines](category:slice-engines)
 
 1.  [Cura - RepRapWiki](http://reprap.org/wiki/Cura)
