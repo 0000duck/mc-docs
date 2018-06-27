@@ -1,14 +1,6 @@
+# The **HELP** menu.
 
-
-\[\[<File:HELP> menu.png|right|framed|
-
-<center>
-
-The **HELP** menu.
-
-</center>
-
-\]\]The **HELP** menu contains links to areas of the program which
+The **HELP** menu contains links to areas of the program which
 provide the user with assistance.
 
 ## Forums

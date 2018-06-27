@@ -1,15 +1,11 @@
-\[\[[File:Library.png|right|frame](File:Library.png%7Cright%7Cframe)|
-
-<center>
-
+[Library.png](http://wiki.mattercontrol.com/images/9/9b/597x428xLibrary.png.pagespeed.ic.JAogOlY8-U.png "Library.png")
 The **Library** pane, when a MatterHackers account is [signed
 in](sign-in.md), has [purchased models](#Purchased),
 and [models shared from another
 user](file-menu.md#Enter_Share_Code).
 
-</center>
 
-\]\]The Library is a place for organizing and storing models. It has
+The Library is a place for organizing and storing models. It has
 five sections; three static and two dynamic.
 
 The **Local Library**, **Cloud Library**, and **Downloads** sections are
@@ -80,20 +76,15 @@ at the right side.
 
 ### In a section
 
-\[\[<File:Library> In section.png|right|framed|
-
-<center>
-
 The **Local Library** section with **Home**, **Search**, **Edit**,
 **Add** and **Create Folder** buttons active.
 
-</center>
+[Library_In_section.png](http://wiki.mattercontrol.com/images/4/4c/597x382xLibrary_In_section.png.pagespeed.ic.0N8any_CvH.png "Library_In_section.png")
 
-\]\]Once in a section, a breadcrumb trail shows the current location
+Once in a section, a breadcrumb trail shows the current location
 within each section, subsequent folders, or search results.
 
-![Library\_Breadcrumb.png](http://wiki.mattercontrol.com/images/6/6f/Library_Breadcrumb.png
-"Library_Breadcrumb.png")
+![Library\_Breadcrumb.png](http://wiki.mattercontrol.com/images/6/6f/Library_Breadcrumb.png "Library_Breadcrumb.png")
 
 Models can be viewed or printed directly by hovering over their bar in
 the list. The **View** button opens the model in a new [3D
@@ -139,10 +130,7 @@ Searches the currently displayed section for the text input in the
 
 ### Edit
 
-\[\[[File:Edit1.png|right|framed](File:Edit1.png%7Cright%7Cframed)|
-
-<center>
-
+[Edit1.png](http://wiki.mattercontrol.com/images/0/0c/590x396xEdit1.png.pagespeed.ic.b3XKE54gr7.png "Edit1.png")
 The **Local Library** section in **Edit** mode.\]\]
 
 Shows advanced file and folder options. Check a box next to a file or

@@ -1,12 +1,6 @@
-\[\[<File:Send> to Remote Device.png|right|framed|
-
-<center>
-
-The  window.
-
-</center>
-
-\]\]The  window allows the user to send models or G-Code files to
+# The Send to Remote Device window.
+[Send_to_Remote_Device.png](http://wiki.mattercontrol.com/images/d/da/500x450xSend_to_Remote_Device.png.pagespeed.ic.YLWRce1U_V.png "Send_to_Remote_Device.png")
+The Send to Remote Device window allows the user to send models or G-Code files to
 another instance of MatterControl signed in to the same
 [MatterHackers.com account](matterhackers.com-account.md).
 

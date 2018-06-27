@@ -1,12 +1,7 @@
-\[\[<File:Tuning> Adjustment-ss.png|right|framed|
-
-<center>
-
+[Tuning_Adjustment-ss.png](http://wiki.mattercontrol.com/images/6/68/584x94xTuning_Adjustment-ss.png.pagespeed.ic.arKCuY4ePn.png "Tuning_Adjustment-ss.png")
 The **Tuning Adjustment** section of the Controls pane.
 
-</center>
-
-\]\]The Tuning Adjustment section of the Controls pane allows the user
+The Tuning Adjustment section of the Controls pane allows the user
 to change the speed and extrusion values during an active print.
 
 Use the slider or enter a value and click **Set**.

@@ -1,4 +1,3 @@
-  
 ![Slice\_Settings-ss.png](http://wiki.mattercontrol.com/images/5/57/Slice_Settings-ss.png
 "Slice_Settings-ss.png")Welcome to the Slice Settings main page\! Below
 you will find links to the categories, sub-categories, and sections of
@@ -87,43 +86,29 @@ Settings are highlighted for a couple of reasons:
 
 ### Presets
 
-\[\[<File:Preset> Highlights.png|right|framed|
-
-<center>
-
+[Preset_Highlights.png](http://wiki.mattercontrol.com/images/9/9b/403x179xPreset_Highlights.png.pagespeed.ic.wUAOZPS8Fi.png "Preset_Highlights.png")
 Both a quality and material preset are applied.
 
-</center>
-
-\]\]When a preset is enabled, the affected settings are highlighted in
+When a preset is enabled, the affected settings are highlighted in
 the color associated with the type of preset. See the [Preset
-Menus](#Preset_Menus) section below for more information.  
-\=== Change from default ===
+Menus](#Preset_Menus) section below for more information.
 
-\[\[<File:Setting> changed.gif|right|framed|
+## Change from default
 
-<center>
-
+[Setting_changed.gif](http://wiki.mattercontrol.com/images/d/da/Setting_changed.gif.pagespeed.ce.f6nLv_qFht.gif "Setting_changed.gif")
 Changing a setting from the default will highlight it in blue.
 
-</center>
-
-\]\]Whenever a setting is manually changed from the profile default, a
+Whenever a setting is manually changed from the profile default, a
 blue highlight appears over the setting and an 'X' icon appears to the
 right. Clicking the X will restore the default value.  
 
 ## Preset Menus
 
-\[\[<File:Preset> Menus.png|right|framed|
-
-<center>
-
+[Preset_Menus.png](http://wiki.mattercontrol.com/images/b/bb/Preset_Menus.png "Preset_Menus.png")
 The SETTINGS **Preset Menus**, shown here with the default (no) presets
 selected.
 
-</center>
-
-\]\]These menus allow the user to save one or more settings as a preset
+These menus allow the user to save one or more settings as a preset
 list under one name instead of changing every setting for a particular
 material or desired quality individually.
 
@@ -143,33 +128,19 @@ internal test and support department.
 
 ## Show Help
 
-\[\[<File:Show> Help-ss.png|framed|right|
-
-<center>
-
 **Show Help** enabled.
 
-</center>
+[Show_Help-ss.png](http://wiki.mattercontrol.com/images/6/60/592x295xShow_Help-ss.png.pagespeed.ic.vun3MEdIDx.png "")
 
-\]\]When checked, an explanation for each function will be revealed
+When checked, an explanation for each function will be revealed
 underneath its name.
 
-  
-
 ## Settings Level Menu
-
-\[\[<File:Settings> Level Menu.png|framed|right|
-
-<center>
-
+[Settings_Level_Menu.png](http://wiki.mattercontrol.com/images/3/31/592x295xSettings_Level_Menu.png.pagespeed.ic.S1V0H5CHRG.webp "Settings_Level_Menu.png")
 The **Settings Level** Menu
 
-</center>
-
-\]\]This menu allows the user to choose between three levels of settings
+This menu allows the user to choose between three levels of settings
 complexity:
-
-  
 
 <table>
 <tbody>
@@ -191,19 +162,11 @@ complexity:
 </tbody>
 </table>
 
-  
-
 ## Options... Menu
 
-\[\[<File:Options>... Menu.png|framed|right|
-
-<center>
-
 The **Options...** Menu
-
-</center>
-
-\]\]The **Options...** menu has five functions: [Show
+[Options..._Menu.png](http://wiki.mattercontrol.com/images/3/3b/597x294xOptions..._Menu.png.pagespeed.ic.bPEqMYYTw6.webp "Options..._Menu.png")
+The **Options...** menu has five functions: [Show
 Help](#Show_Help), Import, Export, Restore Settings, and
 Reset to defaults.
 

@@ -1,13 +1,8 @@
-\[\[<File:G-Code> Terminal.png|right|framed|
-
-<center>
-
+[G-Code_Terminal.png](http://wiki.mattercontrol.com/images/3/35/432x429xG-Code_Terminal.png.pagespeed.ic.c3R1r7B4v1.png "G-Code_Terminal.png")
 The **G-Code Terminal** window, shown here after establishing a
 connection to a Rostock MAX V2.
 
-</center>
-
-\]\]The **G-Code Terminal** is a console window which shows input and
+The **G-Code Terminal** is a console window which shows input and
 output and can be used to directly issue [G-Code
 commands](http://reprap.org/wiki/G-code) to a connected printer.
 
