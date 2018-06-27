@@ -1,6 +1,5 @@
 # The **FILE** menu.
-[File_menu.png](http://wiki.mattercontrol.com/images/1/1b/161x164x.pagespeed.ic._iBkDme-aJ.png "File_menu.png")
-
+![File_menu.png](http://wiki.mattercontrol.com/images/1/1b/161x164x.pagespeed.ic._iBkDme-aJ.png "File_menu.png")
 
 The **FILE** menu contains links to commonly-accessed functions
 having to do with files and printers.
@@ -21,7 +20,7 @@ Opens the operating system's file manager so the user can select a .STL,
 ## Redeem Design Code
 
 The **Redeem Code** window.
-[Redeem_Code.png](http://wiki.mattercontrol.com/images/6/64/500x250xRedeem_Code.png.pagespeed.ic.37bEQthRCt.png "Redeem_Code.png")
+![Redeem_Code.png](http://wiki.mattercontrol.com/images/6/64/500x250xRedeem_Code.png.pagespeed.ic.37bEQthRCt.png "Redeem_Code.png")
 
 Opens a window with a field in which to enter a digital design
 purchase code.
@@ -31,7 +30,9 @@ locations. A card with a code is purchased in-store, and the code is
 entered in this field to redeem the purchase.
 
 ## Enter Share Code
-[Enter_Share_Code.png](http://wiki.mattercontrol.com/images/d/d4/500x300xEnter_Share_Code.png.pagespeed.ic.YomQFLSe3k.png "Enter_Share_Code.png")
+
+![Enter_Share_Code.png](http://wiki.mattercontrol.com/images/d/d4/500x300xEnter_Share_Code.png.pagespeed.ic.YomQFLSe3k.png "Enter_Share_Code.png")
+
 The **Enter Share Code** window.
 
 Opens a window with a field in which to enter a code for viewing a

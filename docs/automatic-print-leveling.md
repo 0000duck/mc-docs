@@ -65,8 +65,7 @@ you to help it measure several points on your bed and when completed
 Print Leveling will automatically be turned on and ready to help. The
 whole process is very easy and will take about 3 to 5 minutes.
 
-![Location of automatic bed leveling settings](http://wiki.mattercontrol.com/images/c/c2/Leveling-location.png
-"Location of automatic bed leveling settings")
+![Location of automatic bed leveling settings](http://wiki.mattercontrol.com/images/c/c2/Leveling-location.png "Location of automatic bed leveling settings")
 
 ### How Will This Affect My Printer And Prints?
 
@@ -81,8 +80,7 @@ use.
 
 ### Settings
 
-Most of the print leveling settings can be found in Settings \> Printer
-\> Print Leveling
+Most of the print leveling settings can be found in Settings \> Printer \> Print Leveling
 
 #### Leveling Solution
 
@@ -151,20 +149,17 @@ plate when it first starts moving.
 
 #### Firmware Changes:
 
-It is also important that the \`ZJERK\` (at least in Marlin firmware)
+It is also important that the `ZJERK` (at least in Marlin firmware)
 not be 0. If it is 0 it will cause the printer to have to come to a
 complete stop at every change in z, which will be every move. In Marlin
 firmware you can find this in Configuration.h line 195 (or there about).
 We set it to .2.
 
-`#define DEFAULT_ZJERK 0.2 // (mm/sec) can't be set to 0 for bed
-leveling to work.`
+`#define DEFAULT_ZJERK 0.2 // (mm/sec) can't be set to 0 for bed leveling to work.`
 
-Or add the following to your [start
-G-Code](settings/printer/custom-g-code/start-g-code):
+Or add the following to your [start G-Code](settings/printer/custom-g-code/start-g-code):
 
-`M205
-Z.2`
+`M205 Z.2`
 
 <embedvideo service="youtube"><https://www.youtube.com/watch?v=k8-rcU0kJBs></embedvideo>
 

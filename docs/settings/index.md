@@ -165,7 +165,7 @@ complexity:
 ## Options... Menu
 
 The **Options...** Menu
-[Options..._Menu.png](http://wiki.mattercontrol.com/images/3/3b/597x294xOptions..._Menu.png.pagespeed.ic.bPEqMYYTw6.webp "Options..._Menu.png")
+![Options..._Menu.png](http://wiki.mattercontrol.com/images/3/3b/597x294xOptions..._Menu.png.pagespeed.ic.bPEqMYYTw6.webp "Options..._Menu.png")
 The **Options...** menu has five functions: [Show
 Help](#Show_Help), Import, Export, Restore Settings, and
 Reset to defaults.
