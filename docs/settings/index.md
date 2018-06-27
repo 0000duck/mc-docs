@@ -17,54 +17,54 @@ The pane can be [popped out](pop-out) into its own window.
 <thead>
 <tr class="header">
 <th><h2 style="text-align:left;">
-<p><a href="SETTINGS/General" title="wikilink">General</a></p>
+<p><a href="General" title="wikilink">General</a></p>
 </h2></th>
 <th><h2 style="text-align:left;">
-<p><a href="SETTINGS/Filament" title="wikilink">Filament</a></p>
+<p><a href="Filament" title="wikilink">Filament</a></p>
 </h2></th>
 <th><h2 style="text-align:left;">
-<p><a href="SETTINGS/Printer" title="wikilink">Printer</a></p>
+<p><a href="Printer" title="wikilink">Printer</a></p>
 </h2></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><big><strong><a href="SETTINGS/General/Layers-Surface" title="wikilink">Layers / Surface</a></strong></big></p></td>
-<td><p><big><strong><a href="SETTINGS/Filament/Material" title="wikilink">Material</a></strong></big></p></td>
-<td><p><big><strong><a href="SETTINGS/Printer/Connection" title="wikilink">Connection</a></strong></big></p></td>
+<td><p><big><strong><a href="General/Layers-Surface" title="wikilink">Layers / Surface</a></strong></big></p></td>
+<td><p><big><strong><a href="Filament/Material" title="wikilink">Material</a></strong></big></p></td>
+<td><p><big><strong><a href="Printer/Connection" title="wikilink">Connection</a></strong></big></p></td>
 </tr>
 <tr class="even">
-<td><p><big><strong><a href="SETTINGS/General/Infill" title="wikilink">Infill</a></strong></big></p></td>
-<td><p><big><strong><a href="SETTINGS/Filament/Temperatures" title="wikilink">Temperatures</a></strong></big></p></td>
-<td><p><big><strong><a href="SETTINGS/Printer/Print_Area" title="wikilink">Print Area</a></strong></big></p></td>
+<td><p><big><strong><a href="General/Infill" title="wikilink">Infill</a></strong></big></p></td>
+<td><p><big><strong><a href="Filament/Temperatures" title="wikilink">Temperatures</a></strong></big></p></td>
+<td><p><big><strong><a href="Printer/Print_Area" title="wikilink">Print Area</a></strong></big></p></td>
 </tr>
 <tr class="odd">
-<td><p><big><strong><a href="SETTINGS/General/Speed" title="wikilink">Speed</a></strong></big></p></td>
-<td><p><big><strong><a href="SETTINGS/Filament/Retraction" title="wikilink">Retraction</a></strong></big></p></td>
-<td><p><big><strong><a href="SETTINGS/Printer/Features" title="wikilink">Features</a></strong></big></p></td>
+<td><p><big><strong><a href="General/Speed" title="wikilink">Speed</a></strong></big></p></td>
+<td><p><big><strong><a href="Filament/Retraction" title="wikilink">Retraction</a></strong></big></p></td>
+<td><p><big><strong><a href="Printer/Features" title="wikilink">Features</a></strong></big></p></td>
 </tr>
 <tr class="even">
-<td><p><big><strong><a href="SETTINGS/General/Raft-Priming" title="wikilink">Raft / Priming</a></strong></big></p></td>
-<td><p><big><strong><a href="SETTINGS/Filament/Extrusion" title="wikilink">Extrusion</a></strong></big></p></td>
-<td><p><big><strong><a href="SETTINGS/Printer/Print_Leveling" title="wikilink">Print Leveling</a></strong></big></p></td>
+<td><p><big><strong><a href="General/Raft-Priming" title="wikilink">Raft / Priming</a></strong></big></p></td>
+<td><p><big><strong><a href="Filament/Extrusion" title="wikilink">Extrusion</a></strong></big></p></td>
+<td><p><big><strong><a href="Printer/Print_Leveling" title="wikilink">Print Leveling</a></strong></big></p></td>
 </tr>
 <tr class="odd">
-<td><p><big><strong><a href="SETTINGS/General/Support_Material" title="wikilink">Support Material</a></strong></big></p></td>
-<td><p><big><strong><a href="SETTINGS/Filament/Cooling" title="wikilink">Cooling</a></strong></big></p></td>
-<td><p><big><strong><a href="SETTINGS/Printer/Print_Recovery" title="wikilink">Print Recovery</a></strong></big></p></td>
+<td><p><big><strong><a href="General/Support_Material" title="wikilink">Support Material</a></strong></big></p></td>
+<td><p><big><strong><a href="Filament/Cooling" title="wikilink">Cooling</a></strong></big></p></td>
+<td><p><big><strong><a href="Printer/Print_Recovery" title="wikilink">Print Recovery</a></strong></big></p></td>
 </tr>
 <tr class="even">
-<td><p><big><strong><a href="SETTINGS/General/Output_Options" title="wikilink">Output Options</a></strong></big></p></td>
+<td><p><big><strong><a href="General/Output_Options" title="wikilink">Output Options</a></strong></big></p></td>
 <td></td>
-<td><p><big><strong><a href="SETTINGS/Printer/Custom_G-Code" title="wikilink">Custom G-Code</a></strong></big></p></td>
+<td><p><big><strong><a href="Printer/Custom_G-Code" title="wikilink">Custom G-Code</a></strong></big></p></td>
 </tr>
 <tr class="odd">
-<td><p><big><strong><a href="SETTINGS/General/Multiple_Extruders" title="wikilink">Multiple Extruders</a></strong></big></p></td>
+<td><p><big><strong><a href="General/Multiple_Extruders" title="wikilink">Multiple Extruders</a></strong></big></p></td>
 <td></td>
-<td><p><big><strong><a href="SETTINGS/Printer/Extruder" title="wikilink">Extruder</a></strong></big></p></td>
+<td><p><big><strong><a href="Printer/Extruder" title="wikilink">Extruder</a></strong></big></p></td>
 </tr>
 <tr class="even">
-<td><p><big><strong><a href="SETTINGS/General/Single_Print" title="wikilink">Single Print</a></strong></big></p></td>
+<td><p><big><strong><a href="General/Single_Print" title="wikilink">Single Print</a></strong></big></p></td>
 <td></td>
 <td></td>
 </tr>
