@@ -1,12 +1,6 @@
-\[\[<File:3D> View-ss.png|right|frame|
-
-<center>
-
 **3D VIEW** with a Calibration Box model loaded.
 
-</center>
-
-\]\]
+![3D_View-ss.png](http://wiki.mattercontrol.com/images/6/68/562x567x3D_View-ss.png.pagespeed.ic.pSUAa6e8Ak.png "3D_View-ss.png")
 
 **3D VIEW** allows the user to preview and make changes to a model or
 multiple models in a 3D environment.
@@ -55,11 +49,9 @@ model.
 
 ## Export...
 
-\[\[[File:3D\_View-Export-window.png|right|framed](File:3D_View-Export-window.png%7Cright%7Cframed)|
+![3D_View-Export-window.png](http://wiki.mattercontrol.com/images/9/94/400x300x3D_View-Export-window.png.pagespeed.ic.XkHcOQI49v.png "3D_View-Export-window.png")
 
-<center>
-
-The **Export...** window.\]\]
+The **Export...** window.
 
 ![3D\_View-Export.png](http://wiki.mattercontrol.com/images/e/e5/3D_View-Export.png "3D_View-Export.png")
 
