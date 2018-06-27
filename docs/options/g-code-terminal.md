@@ -1,4 +1,4 @@
-[G-Code_Terminal.png](http://wiki.mattercontrol.com/images/3/35/432x429xG-Code_Terminal.png.pagespeed.ic.c3R1r7B4v1.png "G-Code_Terminal.png")
+![G-Code_Terminal.png](http://wiki.mattercontrol.com/images/3/35/432x429xG-Code_Terminal.png.pagespeed.ic.c3R1r7B4v1.png "G-Code_Terminal.png")
 The **G-Code Terminal** window, shown here after establishing a
 connection to a Rostock MAX V2.
 

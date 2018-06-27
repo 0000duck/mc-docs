@@ -1,5 +1,5 @@
 # The **HELP** menu.
-
+![HELP_menu.png](http://wiki.mattercontrol.com/images/0/0d/148x191xHELP_menu.png.pagespeed.ic.Te46xquqFq.png "HELP_menu.png")
 The **HELP** menu contains links to areas of the program which
 provide the user with assistance.
 

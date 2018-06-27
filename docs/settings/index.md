@@ -86,7 +86,7 @@ Settings are highlighted for a couple of reasons:
 
 ### Presets
 
-[Preset_Highlights.png](http://wiki.mattercontrol.com/images/9/9b/403x179xPreset_Highlights.png.pagespeed.ic.wUAOZPS8Fi.png "Preset_Highlights.png")
+![Preset_Highlights.png](http://wiki.mattercontrol.com/images/9/9b/403x179xPreset_Highlights.png.pagespeed.ic.wUAOZPS8Fi.png "Preset_Highlights.png")
 Both a quality and material preset are applied.
 
 When a preset is enabled, the affected settings are highlighted in
@@ -95,7 +95,7 @@ Menus](#Preset_Menus) section below for more information.
 
 ## Change from default
 
-[Setting_changed.gif](http://wiki.mattercontrol.com/images/d/da/Setting_changed.gif.pagespeed.ce.f6nLv_qFht.gif "Setting_changed.gif")
+![Setting_changed.gif](http://wiki.mattercontrol.com/images/d/da/Setting_changed.gif.pagespeed.ce.f6nLv_qFht.gif "Setting_changed.gif")
 Changing a setting from the default will highlight it in blue.
 
 Whenever a setting is manually changed from the profile default, a
@@ -104,7 +104,7 @@ right. Clicking the X will restore the default value.
 
 ## Preset Menus
 
-[Preset_Menus.png](http://wiki.mattercontrol.com/images/b/bb/Preset_Menus.png "Preset_Menus.png")
+![Preset_Menus.png](http://wiki.mattercontrol.com/images/b/bb/Preset_Menus.png "Preset_Menus.png")
 The SETTINGS **Preset Menus**, shown here with the default (no) presets
 selected.
 
@@ -130,13 +130,13 @@ internal test and support department.
 
 **Show Help** enabled.
 
-[Show_Help-ss.png](http://wiki.mattercontrol.com/images/6/60/592x295xShow_Help-ss.png.pagespeed.ic.vun3MEdIDx.png "")
+![Show_Help-ss.png](http://wiki.mattercontrol.com/images/6/60/592x295xShow_Help-ss.png.pagespeed.ic.vun3MEdIDx.png "")
 
 When checked, an explanation for each function will be revealed
 underneath its name.
 
 ## Settings Level Menu
-[Settings_Level_Menu.png](http://wiki.mattercontrol.com/images/3/31/592x295xSettings_Level_Menu.png.pagespeed.ic.S1V0H5CHRG.webp "Settings_Level_Menu.png")
+![Settings_Level_Menu.png](http://wiki.mattercontrol.com/images/3/31/592x295xSettings_Level_Menu.png.pagespeed.ic.S1V0H5CHRG.webp "Settings_Level_Menu.png")
 The **Settings Level** Menu
 
 This menu allows the user to choose between three levels of settings
