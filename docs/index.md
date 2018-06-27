@@ -5,14 +5,14 @@
 MatterControl is an open-source program designed to control and enhance the desktop 3D printing experience. http://www.mattercontrol.com/
 
 ## Features
-* [3D VIEW](3d-view.md)
-* [CONTROLS](controls)
+* [3D View](3d-view.md)
+* [Controls](controls)
 * [History](history.md)
-* [LAYER VIEW](layer-view.md)
-* [LIBRARY](libary)
-* [OPTIONS](options.md)
-* [QUEUE](queue.md)
-* [SETTINGS](settings)
+* [Layer View](layer-view.md)
+* [Library](library)
+* [Options](options.md)
+* [Queue](queue.md)
+* [Settings](settings.md)
 * [Cloud](cloud-sync.md)
 
 ## Slice Engines
@@ -22,13 +22,13 @@ MatterControl is an open-source program designed to control and enhance the desk
 
 ## Design Tools
 * [Braille Builder](braille-builder.md)
-* [Image Converter](image-conveter)
-* [Text Creator](text-creator)
+* [Image Converter](image-conveter.md)
+* [Text Creator](text-creator.md)
 
 ## Troubleshooting
-* [Error Messages](error-messages)
-* [Frequently Asked Questions](frequently-asked-questions)
-* [Send Debugging Information](send-debugging-information)
-* [Setting Steps per mm](sttting-steps-per-mm)
-* [Settings FAQ](settings-faq)
-* [Support](support)
+* [Error Messages](error-messages.md)
+* [Frequently Asked Questions](frequently-asked-questions.md)
+* [Send Debugging Information](send-debugging-information.md)
+* [Setting Steps per mm](sttting-steps-per-mm.md)
+* [Settings FAQ](settings-faq.md)
+* [Support](support.md)
