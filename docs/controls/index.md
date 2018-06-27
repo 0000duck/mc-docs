@@ -1,14 +1,9 @@
   
-\[\[[File:Controls-ss.png|framed|right](File:Controls-ss.png%7Cframed%7Cright)|
-
-<center>
+![Controls-ss.png](http://wiki.mattercontrol.com/images/c/c8/Controls-ss.png "Controls-ss.png")
 
 The **CONTROLS** pane as seen in MatterControl desktop with a few
 blurred-out custom Macro buttons.
-
-</center>
-
-\]\] The CONTROLS pane is where available manual controls can be used
+ The CONTROLS pane is where available manual controls can be used
 and adjustments can be made during prints.
 
 To access the Controls menu from the MatterControl main screen, click

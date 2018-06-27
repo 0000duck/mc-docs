@@ -48,16 +48,11 @@ and displays the tool path.
 
 ## Graphical display
 
-\[\[[File:Layers.gif|right|framed](File:Layers.gif%7Cright%7Cframed)|
-
-<center>
+![Layers.gif](http://wiki.mattercontrol.com/images/0/06/Layers.gif "Layers.gif")
 
 LAYER VIEW in 2D mode, showing each layer of the [MatterHackers test
 object](:file:mhobject.stl)
 
-</center>
-
-\]\]
 
 Once G-Code for a model has been generated or loaded, the main area of
 the LAYER VIEW pane will display the tool path. Depending on which

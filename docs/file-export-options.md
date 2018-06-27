@@ -1,8 +1,7 @@
-\[\[[File:3D\_View-Export-window.png|right|framed](File:3D_View-Export-window.png%7Cright%7Cframed)|
+![3D_View-Export-window.png](http://wiki.mattercontrol.com/images/9/94/3D_View-Export-window.png "3D_View-Export-window.png")
 
-<center>
+The **Export...** window.
 
-The **Export...** window.\]\]
 
 The **File export options** dialog box which allows the user to export
 the model in one of several formats.

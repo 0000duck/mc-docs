@@ -10,15 +10,10 @@ this resource:
 
 ## Macros Pane
 
-\[\[[File:Macros-example.png|right|framed](File:Macros-example.png%7Cright%7Cframed)|
-
-<center>
+![Macros-example.png](http://wiki.mattercontrol.com/images/e/e1/Macros-example.png "Macros-example.png")
 
 Macros pane containing example macros for the Rostock MAX V2
-
-</center>
-
-\]\]Once macros have been created, they will appear under the **Macros**
+Once macros have been created, they will appear under the **Macros**
 title.
 
 The screenshot to the right shows an example of several macro buttons
@@ -26,15 +21,10 @@ for the Rostock MAX V2.
 \== Macro Editor
 ==
 
-\[\[[File:Macros-blank-ss.png|right|framed](File:Macros-blank-ss.png%7Cright%7Cframed)|
-
-<center>
+![Macros-blank-ss.png](http://wiki.mattercontrol.com/images/2/21/Macros-blank-ss.png "Macros-blank-ss.png")
 
 By default, the Macros section has no buttons.
-
-</center>
-
-\]\]To access the Macro Editor, click the pencil icon
+To access the Macro Editor, click the pencil icon
 (![Pencil-edit.png](http://wiki.mattercontrol.com/images/b/b0/Pencil-edit.png "Pencil-edit.png")) next to the word
 **Macros**. This will open the Macro Presets window.  
 \=== Macro Presets Window ===

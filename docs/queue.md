@@ -1,8 +1,7 @@
-\[\[[File:Queue-ss.png|right|framed](File:Queue-ss.png%7Cright%7Cframed)|
+![Queue-ss.png](http://wiki.mattercontrol.com/images/e/ef/Queue-ss.png "Queue-ss.png")
 
-<center>
+The **QUEUE** pane with a few models loaded.
 
-The **QUEUE** pane with a few models loaded.\]\]
 
 The **QUEUE** is the stored list of models to be printed in a certain
 order. It is shown when the program starts.

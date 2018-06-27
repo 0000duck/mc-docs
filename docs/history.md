@@ -1,12 +1,7 @@
-\[\[[File:History.png|right|framed](File:History.png%7Cright%7Cframed)|
-
-<center>
+![History.png](http://wiki.mattercontrol.com/images/b/bf/History.png "History.png")
 
 The HISTORY pane, with real examples of prints on a Rostock MAX V2.
-
-</center>
-
-\]\]The **HISTORY** pane displays a log of print sessions the printer
+The **HISTORY** pane displays a log of print sessions the printer
 has attempted and completed.
 
 ## Completed Prints
@@ -43,15 +38,10 @@ History](options/clear-print-history)
 
 ### View
 
-\[\[[File:History1.png|right|none](File:History1.png%7Cright%7Cnone)|
-
-<center>
+![History1.png](http://wiki.mattercontrol.com/images/f/fe/History1.png "History1.png")
 
 The 'View' and 'Print' buttons for repeating past prints.
-
-</center>
-
-\]\]Clicking the View button next to a past print will open the
+Clicking the View button next to a past print will open the
 generated G-Code file in a new [3D VIEW](3d-view.md) window.
 
 ### Print

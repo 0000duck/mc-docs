@@ -12,15 +12,10 @@ during an active print.
 Manual movement speed preferences can be
 saved.
 
-\[\[[File:Movement-ss.png|none|framed](File:Movement-ss.png%7Cnone%7Cframed)|
-
-<center>
+![Movement-ss.png](http://wiki.mattercontrol.com/images/0/09/Movement-ss.png "Movement-ss.png")
 
 The **Movement** section of the Controls pane.
 
-</center>
-
-\]\]
 
 ## Home Buttons
 
@@ -180,15 +175,7 @@ keyboard icon (![Keyboard\_icon.png](http://wiki.mattercontrol.com/images/d/d7/K
 
 ## Movement Speeds Presets
 
-\[\[[File:Movement\_Speeds\_Presets-ss.png|right|framed](File:Movement_Speeds_Presets-ss.png%7Cright%7Cframed)|
-
-<center>
-
-The 'Movement Speeds Presets' window
-
-</center>
-
-\]\]Click the pencil icon (![Pencil-edit.png](http://wiki.mattercontrol.com/images/b/b0/Pencil-edit.png
+Click the pencil icon (![Pencil-edit.png](http://wiki.mattercontrol.com/images/b/b0/Pencil-edit.png
 "Pencil-edit.png")) to the right of the **Movement** title to open the
 Movement Speeds Presets window. Here, the speed(s) at which respective
 axis or extruder will move during manual moves can be set. Speeds are

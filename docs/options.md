@@ -1,13 +1,8 @@
   
-\[\[[File:Options-ss.png|framed|right](File:Options-ss.png%7Cframed%7Cright)|
-
-<center>
+![Options-ss.png](http://wiki.mattercontrol.com/images/1/1f/Options-ss.png "Options-ss.png")
 
 The **OPTIONS** pane as seen in MatterControl desktop.
-
-</center>
-
-\]\] The OPTIONS pane is where detailed printer options, application
+ The OPTIONS pane is where detailed printer options, application
 settings, and MatterControl account settings can be modified.
 
 To access the OPTIONS menu from the MatterControl main screen, click

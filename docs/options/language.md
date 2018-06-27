@@ -1,12 +1,7 @@
-\[\[[File:Language.png|framed|right](File:Language.png%7Cframed%7Cright)|
-
-<center>
+![Language.png](http://wiki.mattercontrol.com/images/3/39/Language.png "Language.png")
 
 MatterControl's **Language** selection menu.
-
-</center>
-
-\]\]MatterControl has been translated into several languages.
+MatterControl has been translated into several languages.
 
 ## Currently Supported Languages
 

@@ -1,12 +1,7 @@
-\[\[[File:EEProm1.png|right|framed](File:EEProm1.png%7Cright%7Cframed)|
-
-<center>
+![EEProm1.png](http://wiki.mattercontrol.com/images/9/94/EEProm1.png "EEProm1.png")
 
 Example **EEProm** settings from a Lulzbot TAZ 6 running Marlin 1.0.2
 
-</center>
-
-\]\]
 
 MatterControl supports interacting with EEPROM as allowed by the
 firmware-- Marlin and Repetier only.

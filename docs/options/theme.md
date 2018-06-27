@@ -1,12 +1,7 @@
-\[\[[File:TD22.png|right|framed](File:TD22.png%7Cright%7Cframed)|
-
-<center>
+![TD22.png](http://wiki.mattercontrol.com/images/f/f6/TD22.png "TD22.png")
 
 The **Theme** section of the Options menu.
-
-</center>
-
-\]\]The Theme section allows the user to customize the look of
+The Theme section allows the user to customize the look of
 MatterControl with 20 different color combinations.
 
 Click one to use.

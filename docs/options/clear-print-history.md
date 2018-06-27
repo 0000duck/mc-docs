@@ -1,12 +1,7 @@
-\[\[[File:CPH1.png|right|framed](File:CPH1.png%7Cright%7Cframed)|
-
-<center>
+![CPH1.png](http://wiki.mattercontrol.com/images/4/4a/CPH1.png "CPH1.png")
 
 The **Clear Print History** section of the Options menu.
-
-</center>
-
-\]\]**Clear Print History** clears the log information in the
+**Clear Print History** clears the log information in the
 [HISTORY](history.md) pane.
 
 ## Use

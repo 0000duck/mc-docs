@@ -1,12 +1,7 @@
-\[\[[File:TR1.png|right|framed](File:TR1.png%7Cright%7Cframed)|
-
-<center>
+![TR1.png](http://wiki.mattercontrol.com/images/6/69/TR1.png "TR1.png")
 
 The **Thumbnail Rendering** menu.
-
-</center>
-
-\]\]The Thumbnail Rendering section controls how model thumbnails are
+The Thumbnail Rendering section controls how model thumbnails are
 displayed in the [Queue](queue.md) and
 [Library](library.md).
 

@@ -1,12 +1,7 @@
-\[\[[File:Notifications1.png|right|framed](File:Notifications1.png%7Cright%7Cframed)|
-
-<center>
+![Notifications1.png](http://wiki.mattercontrol.com/images/a/a2/Notifications1.png "Notifications1.png")
 
 The **Notifications** pop-out window.
-
-</center>
-
-\]\]Notifications can be set to alert the user once a print is complete.
+Notifications can be set to alert the user once a print is complete.
 Alerts can be made via SMS text message (U.S. or Canada only), email, or
 by playing a sound on the computer on which MatterControl is running.
 

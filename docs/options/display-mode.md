@@ -1,12 +1,7 @@
-\[\[[File:DM1.png|right|frame](File:DM1.png%7Cright%7Cframe)|
-
-<center>
+![DM1.png](http://wiki.mattercontrol.com/images/3/31/DM1.png "DM1.png")
 
 The **Display Mode** menu.
-
-</center>
-
-\]\]The Display Mode section controls the user interface mode in which
+The Display Mode section controls the user interface mode in which
 MatterControl runs. Two modes can be switched between: **Normal** and
 **Touchscreen**.
 

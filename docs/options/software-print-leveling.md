@@ -1,12 +1,7 @@
-\[\[[File:SPL7.png|right|framed](File:SPL7.png%7Cright%7Cframed)|
-
-<center>
+![SPL7.png](http://wiki.mattercontrol.com/images/7/71/SPL7.png "SPL7.png")
 
 The Software Print Leveling section as shown in the **Options** menu.
-
-</center>
-
-\]\]The Software Print Leveling feature of MatterControl compensates for
+The Software Print Leveling feature of MatterControl compensates for
 an uneven bed. It is a form of [Automatic Print
 Leveling](automatic-print-leveling.md). Measurement is taken of
 the bed as it is, then G-Code is adjusted as the print happens. The

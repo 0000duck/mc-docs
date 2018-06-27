@@ -1,12 +1,7 @@
-\[\[[File:SE1.png|framed|right](File:SE1.png%7Cframed%7Cright)|
-
-<center>
+![SE1.png](http://wiki.mattercontrol.com/images/9/99/SE1.png "SE1.png")
 
 The **Slice Engine** selection menu.
-
-</center>
-
-\]\] MatterControl offers the ability to switch between one of three
+ MatterControl offers the ability to switch between one of three
 slicing engines: [MatterSlice](matterslice.md),
 [CuraEngine](curaengine.md), and [Slic3r](slic3r.md).
 

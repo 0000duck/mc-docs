@@ -1,12 +1,7 @@
-\[\[[File:EEProm2.png|right|frame](File:EEProm2.png%7Cright%7Cframe)|
-
-<center>
+![EEProm2.png](http://wiki.mattercontrol.com/images/7/79/EEProm2.png "EEProm2.png")
 
 EEPROM settings can be found under the Options menu.
-
-</center>
-
-\]\]MatterControl can set EEProm settings for both Marlin and Repetier
+MatterControl can set EEProm settings for both Marlin and Repetier
 firmwares.
 
 ## Procedure

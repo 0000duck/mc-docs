@@ -1,12 +1,7 @@
-\[\[[File:Temperature-ss.png|right|framed](File:Temperature-ss.png%7Cright%7Cframed)|
-
-<center>
+![Temperature-ss.png](http://wiki.mattercontrol.com/images/c/c7/Temperature-ss.png "Temperature-ss.png")
 
 The **Temperature** section of the Controls pane.
 
-</center>
-
-\]\]
 
 The printer's extruder and heated bed (if present) can be heated
 manually by either entering a value in the related field, or from the
@@ -101,15 +96,10 @@ heat.
 
 Something
 
-\[\[[File:Temperature-Presets-ss.png|center|framed](File:Temperature-Presets-ss.png%7Ccenter%7Cframed)|
-
-<center>
+![Temperature-Presets-ss.png](http://wiki.mattercontrol.com/images/2/20/Temperature-Presets-ss.png "Temperature-Presets-ss.png")
 
 The 'ABS' example presets in use.
 
-</center>
-
-\]\]
 
 [Category:Features](category:features)
 [Category:Controls](category:controls)

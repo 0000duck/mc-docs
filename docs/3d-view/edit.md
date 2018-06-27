@@ -1,14 +1,9 @@
-\[\[[File:Edit-ss.png|right|framed](File:Edit-ss.png%7Cright%7Cframed)|
-
-<center>
+![Edit-ss.png](http://wiki.mattercontrol.com/images/2/21/Edit-ss.png "Edit-ss.png")
 
 **Edit** mode when [more than one
 extruder](settings/printer/features/hardware/extruder-count)
 is configured.
-
-</center>
-
-\]\]Edit mode allows the user to make minor changes to the model
+Edit mode allows the user to make minor changes to the model
 currently loaded in [3D VIEW](3d-view.md).
 
 ## [View Controls](view-controls.md)
@@ -38,15 +33,10 @@ respectively.
 
 ## ROTATE
 
-\[\[[File:Edit-Rotate-example.gif|right|thumb|350px](File:Edit-Rotate-example.gif%7Cright%7Cthumb%7C350px)|
-
-<center>
+![Edit-Rotate-example.gif](http://wiki.mattercontrol.com/images/4/48/Edit-Rotate-example.gif "Edit-Rotate-example.gif")
 
 A model rotated around the X Axis, 45 degrees at a time.
-
-</center>
-
-\]\]The **ROTATE** function allows the user to rotate the model a
+The **ROTATE** function allows the user to rotate the model a
 specific number of degrees around a specified axis.
 
 ![Edit-Rotate.png](http://wiki.mattercontrol.com/images/a/a8/Edit-Rotate.png "Edit-Rotate.png")
@@ -70,15 +60,10 @@ model.
 
 ## SCALE
 
-\[\[[File:Edit-Scale-example.gif|right|thumb|350px](File:Edit-Scale-example.gif%7Cright%7Cthumb%7C350px)|
-
-<center>
+![Edit-Scale-example.gif](http://wiki.mattercontrol.com/images/9/9a/Edit-Scale-example.gif "Edit-Scale-example.gif")
 
 A model scaled to 1, 2, then 3 times its size.
-
-</center>
-
-\]\]The **SCALE** section allows the user to change the size of the
+The **SCALE** section allows the user to change the size of the
 model.
 
 ![Edit-Scale.png](http://wiki.mattercontrol.com/images/5/54/Edit-Scale.png "Edit-Scale.png")
@@ -125,15 +110,10 @@ Z becomes 25 automatically.
 \== MIRROR
 ==
 
-\[\[[File:Edit-Mirror-example.gif|right|thumb|350px](File:Edit-Mirror-example.gif%7Cright%7Cthumb%7C350px)|
-
-<center>
+![Edit-Mirror-example.gif](http://wiki.mattercontrol.com/images/8/8b/Edit-Mirror-example.gif "Edit-Mirror-example.gif")
 
 A model mirrored over the Z axis.
-
-</center>
-
-\]\]The **MIRROR** section allows the user to translate a model over an
+The **MIRROR** section allows the user to translate a model over an
 axis.
 
 ![Edit-Mirror.png](http://wiki.mattercontrol.com/images/1/17/Edit-Mirror.png "Edit-Mirror.png")
@@ -154,16 +134,11 @@ Click the **Z** button to translate the model over the Z axis.
 \== MATERIALS
 ==
 
-\[\[[File:Multi-extrusion.png|right|thumb|350px](File:Multi-extrusion.png%7Cright%7Cthumb%7C350px)|
-
-<center>
+![Multi-extrusion.png](http://wiki.mattercontrol.com/images/0/0d/Multi-extrusion.png "Multi-extrusion.png")
 
 Two aligned models: one to be printed with Extruder 1 and the other with
 Extruder 2.
-
-</center>
-
-\]\]The **MATERIALS** section allows the user to specify which extruder
+The **MATERIALS** section allows the user to specify which extruder
 will be used to print a model.
 
 This section is shown only when the [Extruder
@@ -212,15 +187,10 @@ Shows all faces and lines of a model, including all lines which connect
 vertices of single flat
 polygons.
 
-\[\[[File:Edit-Display-example.gif|none|thumb|400px](File:Edit-Display-example.gif%7Cnone%7Cthumb%7C400px)|
-
-<center>
+![Edit-Display-example.gif](http://wiki.mattercontrol.com/images/f/f9/Edit-Display-example.gif "Edit-Display-example.gif")
 
 Cycling between Shaded, Outlines, and Polygons.
 
-</center>
-
-\]\]
 
   
 
@@ -282,15 +252,10 @@ model.
 
 ## Cancel
 
-\[\[[File:Edit-Save-prompt.png|right|framed](File:Edit-Save-prompt.png%7Cright%7Cframed)|
-
-<center>
+![Edit-Save-prompt.png](http://wiki.mattercontrol.com/images/d/d4/Edit-Save-prompt.png "Edit-Save-prompt.png")
 
 If unsaved changes have been made, the user is prompted.
-
-</center>
-
-\]\]![Edit-Cancel.png](http://wiki.mattercontrol.com/images/b/b9/Edit-Cancel.png "Edit-Cancel.png")
+![Edit-Cancel.png](http://wiki.mattercontrol.com/images/b/b9/Edit-Cancel.png "Edit-Cancel.png")
 
 Exits Edit mode. The user is prompted to save any unsaved changes.  
 \== Save ==
@@ -302,15 +267,10 @@ model.
 
 ## Save As
 
-\[\[[File:Edit-Save-As-ss.png|right|framed](File:Edit-Save-As-ss.png%7Cright%7Cframed)|
-
-<center>
+![Edit-Save-As-ss.png](http://wiki.mattercontrol.com/images/3/3a/Edit-Save-As-ss.png "Edit-Save-As-ss.png")
 
 The **Save New Design** window.
-
-</center>
-
-\]\]![Edit-Save-As.png](http://wiki.mattercontrol.com/images/4/43/Edit-Save-As.png "Edit-Save-As.png")
+![Edit-Save-As.png](http://wiki.mattercontrol.com/images/4/43/Edit-Save-As.png "Edit-Save-As.png")
 
 Opens the **Save New Design** dialog box which prompts the user to save
 a new file in a specified location.
