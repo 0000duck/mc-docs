@@ -11,6 +11,8 @@ functionality including:
 
 ### Access
 
+[Settings](settings/index.md)
+
 All cloud-based functionality is secured with the same
 [MatterHackers.com account](matterhackers.com-account.md) system
 used to place orders on MatterHackers.com.
